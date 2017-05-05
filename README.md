@@ -1,0 +1,2 @@
+# rkchunchu
+myownkodi repo
