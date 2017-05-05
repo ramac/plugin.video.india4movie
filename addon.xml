@@ -16,7 +16,7 @@
     <language>en</language>
     <website>http://www.india4movie.co/</website>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <source>https://github.com/irfancharania/plugin.video.india4movie</source>
+    <source>https://github.com/ramac/plugin.video.india4movie</source>
     <summary lang="en">Scrapes movies from www.india4movie.co, movierulz.to, fullnewmovie.net</summary>
     <description>This addon provides movies in the following categories: Dubbed, Pakistani, Hindi, Hollywood, Malayalam, Marathi, Punjabi, Tamil, Telegu
 
